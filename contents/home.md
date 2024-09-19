@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![zhemmz](https://github.com/zhemmz?tab=repositories)](https://github.com/zhemmz)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a PhD in Atmospheric Science at the University of Chinese Academy of Sciences (UCAS).
 
 #### Email
-sli[at]cumt.edu.cn
+zhengmengzhe21[at]mails.ucas.ac.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+D.Sc., Meteorology, University of Chinese Academy of Sciences, 2024-2027 (excepted).\
+M.S., Atmospheric Science, Chinese Academy of Meteorological Sciences, 2021—2024 .\
+B.S., Atmospheric Science, Yunnan University, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Climate system model, Earth system model.
 
