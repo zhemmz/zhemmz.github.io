@@ -1,1 +1,1 @@
-- <strong>Zheng, M.</strong>, Wu, T.*, Xin, X.* et al. Simulation of MJO with improved deep convection scheme in different resolutions of BCC-CSM2 models. Clim Dyn 62, 2161–2185 (2024). [[Code]] (https://doi.org/10.1007/s00382-023-07015-y)
+- <strong>Zheng, M.</strong>, Wu, T.*, Xin, X.* et al. Simulation of MJO with improved deep convection scheme in different resolutions of BCC-CSM2 models. Clim Dyn 62, 2161–2185 (2024). [[Code]](https://doi.org/10.1007/s00382-023-07015-y)

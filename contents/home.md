@@ -1,11 +1,11 @@
 
 
-[![zhemmz](https://github.com/zhemmz?tab=repositories)](https://github.com/zhemmz)
+[![zhemmz](https://img.shields.io/badge/zhemmz-github-blue?logo=github)](https://github.com/zhemmz)
 
 He is currently pursuing a PhD in Atmospheric Science at the University of Chinese Academy of Sciences (UCAS).
 
 #### Email
-zhengmengzhe21[at]mails.ucas.ac.cn
+zhengmengzhe21@mails.ucas.ac.cn
 
 #### Education
 D.Sc., Meteorology, University of Chinese Academy of Sciences, 2024-2027 (excepted).\
